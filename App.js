@@ -28,7 +28,7 @@ export default class App extends Component<Props> {
 
 const styles = StyleSheet.create({
   container: {
-    flexDirection: 'column-reverse',
+    // flexDirection: 'column-reverse',
     flex: 1,
   },
   welcome: {
